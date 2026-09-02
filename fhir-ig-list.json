@@ -156,6 +156,18 @@
     "canonical" : "https://dhp.uz/fhir/core"
   },
   {
+    "name" : "UZ DHP Integrations",
+    "category" : "EHR Access",
+    "npm-name" : "uz.dhp.integrations",
+    "description" : "Profiles and integration patterns for third-party systems (MIS, LIS, PACS) exchanging data with the Uzbekistan Digital Health Platform, using FHIR R5",
+    "authority" : "MOH Uzbekistan",
+    "product" : ["fhir"],
+    "country" : "uz",
+    "language" : ["en", "ru", "uz"],
+    "canonical" : "https://dhp.uz/fhir/integrations",
+    "ci-build" : "https://build.fhir.org/ig/uzinfocom-org/digital-health-integration"
+  },
+  {
     "name" : "CCDA on FHIR",
     "category" : "Clinical Documents",
     "npm-name" : "hl7.fhir.us.ccda",
